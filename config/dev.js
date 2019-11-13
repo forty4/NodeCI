@@ -5,5 +5,7 @@ module.exports = {
   // mongoURI: 'mongodb://readonly:password@ds063124.mlab.com:63124/blog_everyone',
   mongoURI: 'mongodb://localhost:27017/blog_everyone',
   redisUrl: 'redis://127.0.0.1:6379',
-  cookieKey: '123123123'
+  cookieKey: '123123123',
+  accessKeyId: 'AKIAZQRDQF7VYSAU7YMC',
+  secretAccessKey: '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'
 };
